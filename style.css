@@ -1,0 +1,52 @@
+html {
+    border: 2px solid black;
+    margin: 10px;
+}
+* {
+    font-size: 25px;
+    font-family: "Raleway", sans-serif;   
+}
+div {
+    background-color: #d9d9d9;
+}
+div h1 {
+    font-size: 35px;
+    padding: 5px;
+}
+
+
+img {
+    height: 400px;
+    float: left;
+    margin: 20px;
+}
+header div {
+    font-size: 50px;
+    font-weight:500;
+    text-align: center;
+}
+header h1 {
+    font-size: 75px;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+header p {
+    display: inline-block;
+    width: 535px;
+    margin-top: 0px;
+}
+header p#short {
+    width: 340px;
+}
+main {
+    clear: left;
+}
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    margin: 20px;
+}
+table th {
+    background-color: #d8dbe2;
+}
